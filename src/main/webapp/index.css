@@ -1,0 +1,289 @@
+
+body {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1697px;
+    height: 965px;
+    left: 121px;
+    top: 57px;
+
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+.FindAnimalText{
+    position: absolute;
+    width: 300px;
+    height: 58px;
+    left: 497px;
+    top: 374px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.NameText {
+    position: absolute;
+    width: 158px;
+    height: 55px;
+    left: 499px;
+    top: 491px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.SpeciesText{
+    position: absolute;
+    width: 197px;
+    height: 55px;
+    left: 490px;
+    top: 598px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.GenderText{
+    position: absolute;
+    width: 187px;
+    height: 55px;
+    left: 490px;
+    top: 703px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.NameBox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 259px;
+    height: 48px;
+    left: 728px;
+    top: 491px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.SpeciesBox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 259px;
+    height: 48px;
+    left: 728px;
+    top: 598px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.GenderSelect{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 149px;
+    height: 48px;
+    left: 728px;
+    top: 708px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Title {
+    /* ZOO FINDER */
+    position: absolute;
+    width: 731px;
+    height: 125px;
+    left: 719px;
+    top: 72px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 96px;
+    line-height: 116px;
+
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(235, 79, 30, 0.5);
+}
+
+
+.SearchButton{
+    position: absolute;
+    width: 179px;
+    height: 72px;
+    left: 491px;
+    top: 804px;
+
+    background: #2AD1E8;
+}
+.FindCareTakerText{
+    position: absolute;
+    width: 430px;
+    height: 58px;
+    left: 1107px;
+    top: 361px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.careNameText{
+    position: absolute;
+    width: 293px;
+    height: 58px;
+    left: 1107px;
+    top: 489px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.careNameBox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 259px;
+    height: 48px;
+    left: 1526px;
+    top: 491px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.careLastNameText{
+    position: absolute;
+    width: 283px;
+    height: 58px;
+    left: 1107px;
+    top: 592px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.careLastNameBox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 259px;
+    height: 48px;
+    left: 1526px;
+    top: 598px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.carePhoneText{
+
+    /* PHONE NUMBER: */
+
+
+    position: absolute;
+    width: 390px;
+    height: 58px;
+    left: 1097px;
+    top: 698px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 56px;
+
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.carePhoneBox{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 294px;
+    height: 48px;
+    left: 1526px;
+    top: 708px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.careSearchButton{
+    position: absolute;
+    width: 179px;
+    height: 76px;
+    left: 1107px;
+    top: 804px;
+
+    background: #2AD1E8;
+}
+
+.resultText{
+    /* Text */
+
+
+    position: absolute;
+    width: 1493px;
+    height: 958px;
+}
+form{
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: 3.140em;
+}
+h1{
+    /* Text */
+
+
+    position: absolute;
+    width: 1493px;
+    height: 958px;
+}
